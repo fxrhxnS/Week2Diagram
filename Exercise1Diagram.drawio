@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T15:06:05.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="5xR5-2or3S9qxkeQY9BV" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T15:26:59.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="MKCqMAu8O-89yILK2N7T" version="13.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="fwo_I_GuEPBSCwpJomhz-11" value="+Swim(fin:int):void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwo_I_GuEPBSCwpJomhz-5">
           <mxGeometry y="138" width="202" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fwo_I_GuEPBSCwpJomhz-12" value="+Swim(x:int,y:int):void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwo_I_GuEPBSCwpJomhz-5">
+        <mxCell id="fwo_I_GuEPBSCwpJomhz-12" value="+Swim(x:double,y:double):void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwo_I_GuEPBSCwpJomhz-5">
           <mxGeometry y="164" width="202" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fwo_I_GuEPBSCwpJomhz-24" value="need" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
